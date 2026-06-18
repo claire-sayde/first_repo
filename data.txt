@@ -5,3 +5,6 @@ Groceries:
 - brownies 
 - chocolat
 - chips
+- coke
+- doritos
+
