@@ -2,3 +2,5 @@ Groceries:
 - tomate
 -courgettes 
 - pasta
+- brownies 
+- chocolat
