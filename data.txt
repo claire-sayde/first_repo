@@ -4,3 +4,5 @@ Groceries:
 - pasta
 - brownies 
 - chocolat
+- chips
+- coke
